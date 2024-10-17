@@ -1,0 +1,73 @@
+html{
+    width: 0 auto;
+    height: 100%;
+    
+}
+body, html{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    margin:0 ;
+padding: 0;
+width: 100vw;
+height:90vh;
+    border-collapse: collapse;
+}
+/* .table2{
+  position: relative;
+  left: 0;
+  bottom: 0;
+  justify-content: flex-start;
+  align-items: left;
+} */
+.red{
+    background-color: red;
+    border: 2px solid black;
+    width: 1199.55px;
+   
+}
+
+
+.white{
+    background-color: white;
+    border: 2px solid black;
+    width: 1199.55px;
+   
+}
+
+.red2{
+background-color: red;
+border: 2px solid black;
+
+}
+
+.white2{
+background-color: white;
+border: 2px solid black;
+}
+/* fist 8 stripes right aligned next to flag */
+.flag{
+width: 100px;
+margin:0 ;
+padding: 0;
+}
+
+.flagnts{
+    margin:0 ;
+    padding: 0;
+    width: 500px;
+
+}
+
+img{
+    height: 394px;
+    width:491px;
+    /* puts picture on top of table */
+    position: absolute;
+    left:7px;
+    
+}
+
